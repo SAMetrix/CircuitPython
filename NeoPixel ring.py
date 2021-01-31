@@ -6,7 +6,7 @@ import random
 pixel = neopixel.NeoPixel(board.GP15, 24, pixel_order = neopixel.RGB, brightness=0.3)
 
 #color = (0,22,0)
-
+#testing
 #for i in range(23):
  #   pixel[i] = color
   #  #time.sleep(0.1)
